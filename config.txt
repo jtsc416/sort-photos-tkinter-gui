@@ -1,0 +1,3 @@
+inputfolder= ""
+outputfolder= ""
+recursion= "False"
